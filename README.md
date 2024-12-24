@@ -11,7 +11,7 @@ This Vivado vhdl project uses the Basys3 VGA connector to display a flappy bird 
 - image handling (background, flappy, pipes, score, game over) : image to vhdl array (python script), storing image in memory (xilinx vhdl template), displaying images (go through parts of the images to save space) 
 
 ## Demonstration
-<video src="https://github.com/Alan-GIRAUDON/Flappy_bird_basys3/blob/master/flappy_demo.mp4"></video>
+<video src="https://github.com/user-attachments/assets/303843be-8dbd-4b11-833a-f6ace4718d7a.mp4"></video>
 ## How to use
 - create Vivado project
 - add all sources files, set language to vhdl in gui
